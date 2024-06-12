@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: java-eks-app
+  name: java-eks-application
 spec:
   replicas: 1
   selector:
